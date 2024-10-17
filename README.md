@@ -50,6 +50,8 @@ By utilizing leftover ingredients, EcoByte helps users reduce food waste and ado
 
 ## **Features**
 - **Recipes**: Browse a wide selection of recipes created from leftover ingredients. Each recipe includes total calorie information for easy nutritional tracking.
+- **Recipe Review and Ratings**: Users can rate recipes and leave reviews, creating an interactive and community-driven experience.
+- **User-Generated Recipes**: Visitors can submit their own recipes, expanding the collection of available dishes.
 - **Ingredient Adjustment**: When selecting a recipe, users can see the required ingredients. The quantities are automatically adjusted based on the portion size they want to prepare, and the total calorie count is updated accordingly.
 - **Nutrition Calculator**: A personalized nutrition calculator based on user input (age, weight, height, and activity level).
 - **User Profile Popup**: Allows users to edit and save their personal information.
@@ -142,7 +144,8 @@ Visit the live site to explore the features, such as:
 - Personalized nutrition calculator.
 - User profile customization.
 - Dark mode toggle for improved user experience.
-
+- Recipe reviews and ratings.
+- User-generated recipes.
 
 ![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-29%20192310.png)
 
@@ -163,10 +166,5 @@ If you have any questions or issues regarding this project, feel free to reach o
 
 ## **Auto-fill Feature**
 In the **Contact** section, the name field is automatically populated with the user’s information from the **User Profile Popup**. The field is set as read-only to ensure consistency across the application.
-
-
-## **New Features**
-- **Recipe Review and Ratings**: Users can now rate recipes and leave reviews, creating a more interactive and community-driven experience.
-- **User-Generated Recipes**: Visitors to the platform can submit their own recipes, allowing for a more diverse collection of dishes.
 
 
