@@ -108,23 +108,25 @@ Here are some screenshots from the EcoByte web application:
 
 ![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-28%20195251.png)
 
+![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-10-17%20143435.png)
+
 ![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-28%20195309.png)
 
 ![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-28%20195328.png)
 
 ![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-28%20195350.png)
 
-![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-28%20195407.png)
+![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-10-17%20143418.png)
 
 ![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-28%20195426.png)
 
-![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-28%20195500.png)
+![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-10-17%20143507.png)
 
 ![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-29%20173104.png)
 
 ![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-29%20173315.png)
 
-![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-29%20191006.png)
+![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-10-17%20143723.png)
 
 ![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-29%20191058.png)
 ---
