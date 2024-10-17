@@ -133,7 +133,7 @@ Here are some screenshots from the EcoByte web application:
 ## **Live Website**
 The **EcoByte** project has been successfully deployed and can be accessed at the following link:
 
-[**EcoByte Live Website**](https://ecobyte-lyart.vercel.app/)
+[**EcoByte Live Website**](https://ecobytefinal.vercel.app/)
 
 Visit the live site to explore the features, such as:
 - Recipe recommendations.
