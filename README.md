@@ -8,6 +8,7 @@
 - [Live Website](#live-website)
 - [Contact](#contact)
 - [Auto-fill Feature](#auto-fill-feature)
+- [New Features](#new-features)
 
 ---
 
@@ -160,4 +161,10 @@ If you have any questions or issues regarding this project, feel free to reach o
 
 ## **Auto-fill Feature**
 In the **Contact** section, the name field is automatically populated with the user’s information from the **User Profile Popup**. The field is set as read-only to ensure consistency across the application.
+
+
+## **New Features**
+- **Recipe Review and Ratings**: Users can now rate recipes and leave reviews, creating a more interactive and community-driven experience.
+- **User-Generated Recipes**: Visitors to the platform can submit their own recipes, allowing for a more diverse collection of dishes.
+
 
