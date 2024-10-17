@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'poppins';
+    src: url('./Poppins/Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('./Poppins/Poppins-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'playfair';
+    src: url('./Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    font-family: 'poppins', sans-serif;
+}
+
+.font-playfair{
+    font-family: 'playfair', sans-serif;
+}
+
+.bg-orange{
+    background-color: #B90B0B;
+}
+
+

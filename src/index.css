@@ -1,0 +1,194 @@
+/* 
+raseda green #829172
+polly green #325D55
+ash green #CCD6C0
+cal poly green #2E522A
+asparagus green #8DA650
+
+*/
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+.hoverscale{
+  transition: 0.3s ease-in;
+}
+
+.bdgkal{
+  display: none;
+  transition: 0.5s ease-in;
+}
+.hoverscale:hover{
+  transform: scale(1.05);
+}
+
+.hoverscale:hover .bdgkal{
+  display: block;
+}
+
+.bg-polly{
+  background-color: #325D55;
+}
+.bg-cal{
+  background-color: #2E522A;
+}
+.bg-asparagus{
+  background-color: #8DA650;
+}
+.bg-ash{
+  background-color: #CCD6C0;
+}
+.bg-raseda{
+  background-color: #829172;
+}
+
+.navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+
+.jumbotron-container {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.parallax {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-image: url('https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-attachment: fixed; /* Parallax effect */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  z-index: 1; /* Set z-index for layering */
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 2; /* Set z-index for overlay */
+}
+
+.content {
+  position: absolute; /* Change to absolute for centering */
+  top: 50%; /* Move down 50% */
+  left: 50%; /* Move right 50% */
+  transform: translate(-50%, -50%); /* Center using transform */
+  z-index: 3; /* Set z-index for content */
+  text-align: center;
+  color: white;
+  padding: 1rem; /* Adjust padding as needed */
+}
+
+.shadow {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 60vh; /* Adjust height for a softer shadow */
+  background: linear-gradient(to top, rgba(255, 255, 255, 0) ,rgba(0, 0, 0, 0)); /* Softer gradient */
+  z-index: 2; /* Set z-index for shadow */
+}
+
+.nvJumbo{
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%;
+  z-index: 3; 
+}
+
+.nvStatic{
+  transition: 0.5s ease-in-out;
+}
+
+
+/* about */
+
+.blob1{
+  filter: drop-shadow(8px 8px 16px rgba(0, 0, 0, 0.2)); 
+}
+
+.imgabout1{
+  filter: drop-shadow(8px 8px 16px rgba(0, 0, 0, 0.4)); 
+}
+
+.cardKonten2{
+  transition: 0.3s ease;
+}
+
+.cardKonten2:hover{
+  transform: scale(1.1);
+}
+
+.cardKonten2a{
+  display: none;
+  text-decoration: none;
+}
+
+.cardKonten2:hover .cardKonten2a{
+  display: block;
+}
+
+
+
+.no-select {
+  user-select: none; /* Untuk browser modern */
+  -webkit-user-select: none; /* Untuk Safari */
+  -moz-user-select: none; /* Untuk Firefox */
+  -ms-user-select: none; /* Untuk IE/Edge */
+}
+
+
+.number-input {
+  width: 200px;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.number-input .btn {
+  border-radius: 8px;
+}
+
+.number-input input {
+  font-size: 1.5rem;
+  border: 1px solid #007bff;
+  border-radius: 0;
+}
+
+.grey-button {
+  color: #000; /* Set the text color */
+  background-color: #f0f0f0; /* Light grey background */
+  border-color: #d9d9d9; /* Light grey border */
+}
+
+.grey-button:hover {
+  background-color: #e6e6e6; /* Darker grey on hover */
+  border-color: #d9d9d9; /* Maintain light grey border */
+  color: #000; /* Maintain text color */
+}
+
+.align-items-stretch {
+  align-items: stretch;
+}

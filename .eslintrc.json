@@ -1,0 +1,12 @@
+{
+    "root": true,
+    "extends": "react-app",
+    "rules": {
+      "no-unused-vars": "off",
+      "react/prop-types": "off",
+      "react/no-unescaped-entities": "off",
+      "react/react-in-jsx-scope": "off"
+      // Tambahkan aturan lain yang ingin dinonaktifkan
+    }
+  }
+  

@@ -1,0 +1,26 @@
+# Mengabaikan direktori build atau output
+build/
+dist/
+node_modules/
+
+./src/utility/bootstrap/js/bootstrap.js
+./src/utility/bootstrap/js/bootstrap.min.js
+./src/utility/bootstrap/js/bootstrap.bundle.min.js
+
+
+# Mengabaikan file yang sudah di-minify
+*.min.js
+
+# Mengabaikan semua file yang berada dalam folder tertentu
+public/
+coverage/
+
+# Mengabaikan file spesifik
+src/vendor/*.js
+
+# Mengabaikan file bundle
+*.bundle.js
+
+# Mengabaikan file yang memiliki nama atau ekstensi tertentu
+*.test.js
+*.spec.js
