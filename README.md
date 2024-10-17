@@ -6,7 +6,6 @@
 - [How to Run](#how-to-run)
 - [Screenshots](#screenshots)
 - [Live Website](#live-website)
-- [Contact](#contact)
 - [Auto-fill Feature](#auto-fill-feature)
 - [New Features](#new-features)
 
@@ -155,15 +154,6 @@ Visit the live site to explore the features, such as:
 
 ![](https://github.com/mdwikurniawan976/screenshots/blob/main/Screenshot%202024-09-29%20192251.png)
 ---
-
-## **Contact**
-If you have any questions or issues regarding this project, feel free to reach out to us:
-
-- **Email**: mdwikurniawan976@gmail.com
-- **GitHub**: [mdwikurniawan976](https://github.com/mdwikurniawan976)
-
----
-
 ## **Auto-fill Feature**
 In the **Contact** section, the name field is automatically populated with the user’s information from the **User Profile Popup**. The field is set as read-only to ensure consistency across the application.
 
